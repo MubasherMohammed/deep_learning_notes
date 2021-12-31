@@ -1,6 +1,5 @@
 # deep_learning_notes
-sketches_ of deep learning 
-download .webarchive file
+sketches_ of deep learning notes
 
 1. Kubeflow 10.3k ⭐ - https://lnkd.in/dabvCwk5
 2. MLFlow 11k ⭐: https://lnkd.in/dKFyF_PT
@@ -15,4 +14,5 @@ download .webarchive file
 
 ![deep](https://user-images.githubusercontent.com/50444056/147823218-dbaeb7bf-9524-4d4d-8330-37ede2a901e2.jpg)
 
+https://www.youtube.com/watch?v=2fy17SwDHUw
 
